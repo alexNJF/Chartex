@@ -8,3 +8,5 @@ SQL QUERY
 <br />
 
 <a href="#" target="_blank"><img src="https://github.com/alexNJF/Chartex/blob/master/pic/1.JPG" border="0" alt="آپلود عکس" /></a>
+<a href="#" target="_blank"><img src="https://github.com/alexNJF/Chartex/blob/master/pic/2.JPG" border="0" alt="آپلود عکس" /></a>
+<a href="#" target="_blank"><img src="https://github.com/alexNJF/Chartex/blob/master/pic/3.JPG" border="0" alt="آپلود عکس" /></a>
